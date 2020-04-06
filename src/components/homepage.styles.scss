@@ -1,0 +1,50 @@
+body {
+    font-family: 'Arial Rounded MT';
+}
+
+h1 {
+    font-size: 80px;
+    color: #FFFFFF;
+}
+
+.col-4 {
+    h1 {
+        font-size: 50px;
+        margin-top: 20px;
+    }
+    h2 {
+        font-size: 50px;
+        color: #FFFFFF;
+        margin-top: 20px;
+        margin-left: 40px;
+    }
+}
+
+.col-6 {
+    h1 {
+        font-size: 50px;
+        margin-top: 20px;
+        margin-left: 14%;
+    }
+    h2 {
+        font-size: 50px;
+        color: #FFFFFF;
+        margin-top: 20px;
+    }
+}
+
+.telInformativos {
+    h1 {
+        color: #000000;
+        margin-top: 120px;
+    }
+    h2 {
+        font-size: 35px;
+        margin-top: 50px;
+    }
+}
+
+.logosHome {
+    margin-left: 20%;
+    margin-top: 30%;
+}
